@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1670879730 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datastructure.h"
+	"datetime.h"
+	"list.h"
+	"teams.h"
+	"tools.h"
+	"database.h"
+
+1670844026 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\datastructure.h
+
+1669029849 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\datetime.h
+
+1670879732 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\database.h
+
+1667766103 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\datetime.c
+	<stdio.h>
+	<stdlib.h>
+	"datastructure.h"
+	"datetime.h"
+
+1667749614 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\menu.c
+	<stdio.h>
+	"tools.h"
+	"menu.h"
+
+1669793831 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\tools.h
+
+1667749618 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\menu.h
+
+1670879339 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\sort.c
+	"teams.h"
+	"datastructure.h"
+	"sort.h"
+
+1670879997 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\teams.h
+
+1670879642 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\sort.h
+
+1670879798 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\teams.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datastructure.h"
+	"tools.h"
+	"menu.h"
+	"datetime.h"
+	"sort.h"
+	"list.h"
+	"teams.h"
+
+1667764877 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\tools.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tools.h"
+
+1670833831 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datastructure.h"
+	"datetime.h"
+	"menu.h"
+	"teams.h"
+	"tools.h"
+	"database.h"
+
+1670874781 source:c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\list.c
+	<stdio.h>
+	<string.h>
+	"datastructure.h"
+	"teams.h"
+	"list.h"
+
+1670879231 c:\users\ossi\google drive\bht 2. semester\informatik 2\c projekte\ueb06\list.h
+
